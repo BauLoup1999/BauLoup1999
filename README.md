@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BauLoup1999
 - 👀 I’m interested in IT and development 
 - 🌱 Je suis actuellement en recherche d'une alternance dans le cadre de ma formation qui débutera début octobre 2022 en tant que développeur informatique.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ Mes futurs projets de codage apparaitront sur ce profil. 
 - 📫 How to reach me ...
 
 <!---
